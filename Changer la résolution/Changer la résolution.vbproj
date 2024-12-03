@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Changer_la_résolution</RootNamespace>
+    <TargetFramework>net9.0-windows10.0.26100.0</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+    <UseApplicationFramework>False</UseApplicationFramework>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+</Project>
